@@ -32,6 +32,6 @@ npm install && npm run dev
 - Learn all the stack in one video
 
 ## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
+Built with love ❤️ by fuya
 
 
